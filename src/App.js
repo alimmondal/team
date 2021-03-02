@@ -23,7 +23,7 @@ function App() {
   }
 // Bootstrap class is used;
   return (
-    <div className="container-sm">
+    <div className="container">
       <Header></Header>     
       <h1 className="text-center text-danger">Plyers' Profile</h1>
       <div className="appFlex container">
