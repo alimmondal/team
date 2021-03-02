@@ -1,0 +1,36 @@
+
+.players{
+    display:flex;
+    border-right: 1px solid lightgray;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius:10px;
+    padding: 20px;
+    margin-right:50px;
+    margin-bottom: 30px;
+    margin-top:30px;
+}
+
+.players img{
+    height:200px;
+    width: 300px;
+    margin-right:30px;
+}
+.playerInfo h3{
+    color:goldenrod;
+}
+/* .playerInfo button{
+    background-color:goldenrod;
+    border: 1px solid lightgray;
+    border-radius:5px;
+    width: 150px;
+    height:30px;
+    cursor: pointer;
+} */
+
+
+
+
+
+
+
+
