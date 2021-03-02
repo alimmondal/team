@@ -6,7 +6,6 @@ import playerData from './data/data.json'
 import Player from './components/Player/Player';
 import Cart from './components/Cart/Cart';
 import 'bootstrap/dist/css/bootstrap.min.css';
-// import Container from 'react-bootstrap/Container';
 
 
 function App() {
